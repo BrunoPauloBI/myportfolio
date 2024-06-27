@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My BI Portfolio</h1>
-    <p>Hi, I'm [Your Name], a Business Intelligence Specialist.</p>
+    <p>Hi, I'm Bruno, a Business Intelligence Specialist.</p>
     <h2>Projects</h2>
     <ul>
         <li><a href="https://github.com/yourusername/project1">Project 1</a> - Description of project 1.</li>
@@ -20,6 +20,6 @@
         <li>Skill 3</li>
     </ul>
     <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
+    <p>Email: bruno.sousa.paulo@gmail.com</p>
 </body>
 </html>
